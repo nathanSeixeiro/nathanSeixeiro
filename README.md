@@ -1,16 +1,14 @@
-### Hi there 👋
+### Seja Bem Vindo ao meu repositório 
 
-<!--
-**nathanSeixeiro/nathanSeixeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Prazer me chamo Nathan
+- Sou técnico de Densenvolvimento de sistemas e atualmente estudande de ADS na fatec de Carapicuiba
+- Aqui você encontrará meus projetos pessoais e as atividades que eu achar mais interressantes da faculdade 
+- Fique à vontade espero que encontre algo útil e qualquer coisa só entrar em contato comigo 
 
-Here are some ideas to get you started:
+#### Tamo Junto!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href= "https://github.com/nathanSeixeiro">
+  <img height:"180em" src= " " >
+  <img height:"180em" src= " ">
+</div>
