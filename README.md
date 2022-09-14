@@ -5,7 +5,7 @@
 - Aqui você encontrará meus projetos pessoais e as atividades que eu achar mais interressantes da faculdade 
 - Fique à vontade espero que encontre algo útil e qualquer coisa só entrar em contato comigo 
 
-### Welcome!!
+### Welcome to my repository!!
 
   - Hi my name is Nathan 
   - I'm technical in System development 
