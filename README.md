@@ -5,6 +5,13 @@
 - Aqui você encontrará meus projetos pessoais e as atividades que eu achar mais interressantes da faculdade 
 - Fique à vontade espero que encontre algo útil e qualquer coisa só entrar em contato comigo 
 
+### Welcome!!
+
+  - Hi my name is Nathan 
+  - I'm technical in System development 
+  - Here you will find my personal projects and the activities that I find most interesting in college.
+  - Hope you find something useful and anything just contact me
+
 #### Tamo Junto!!
 
 <div align="center">
