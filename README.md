@@ -1,16 +1,10 @@
-### Seja Bem Vindo ao meu Repositório 
+### Salve salve rapaziadinha tech
 
-- Prazer me chamo Nathan
-- Sou técnico de Densenvolvimento de sistemas e atualmente estudante de ADS na fatec de Carapicuiba
-- Aqui você encontrará meus projetos pessoais e as atividades que eu achar mais interressantes da faculdade 
-- Fique à vontade espero que encontre algo útil e qualquer coisa só entrar em contato comigo 
+- Prazer me chamo Nathan, sou desenvolvedor e analista Devops! Aqui tem um monte de projeto de teste de tecnologias e uns projeto soltos
 
 ### Welcome to my repository!!
 
-  - Hi my name is Nathan 
-  - I'm technical in System development 
-  - Here you will find my personal projects and the activities that I find most interesting in college.
-  - Hope you find something useful and anything just contact me
+  - Hi my name is Nathan, i'm a System development and DevOps analyst! Here are a lot of project for test tecnologies and random projects
 
 #### Tamo Junto!!
 
@@ -26,7 +20,6 @@
   <img align="center" alt="JScript " height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TS      " height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="React   " height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Java    " height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Docker  " height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 
           
