@@ -7,11 +7,6 @@
   - Hi my name is Nathan, i'm a System development and DevOps analyst! Here are a lot of project for test tecnologies and random projects
 
 #### Tamo Junto!!
-
-<div align="center">
-  <a href= "https://github.com/nathanSeixeiro">
-  <img height:"180em" width="50%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=nathanSeixeiro&layout=compact&langs_count=7&theme=gotham">
-</div>
   
 <div style="display: inline_block" align='center' ><br>
   
